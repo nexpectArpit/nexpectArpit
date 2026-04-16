@@ -26,6 +26,7 @@ I am a developer focused on AI and ML with strong interest in building web proje
 <div align="center">
 <a href="https://www.linkedin.com/in/nexpectArpit"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
 <a href="https://github.com/nexpectArpit"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> 
+<a href="https://gitlab.com/nexpectArpit"> <img src="https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a> 
 <a href="https://www.leetcode.com/nexpectarpit"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://codeforces.com/profile/brokendead"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a> 
 <a href="https://www.codechef.com/users/ms240410700029"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a> 
