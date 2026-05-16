@@ -31,6 +31,8 @@ I am a developer focused on AI and ML with strong interest in building web proje
 <a href="https://codeforces.com/profile/brokendead"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a> 
 <a href="https://www.codechef.com/users/ms240410700029"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a> 
 <a href="https://auth.geeksforgeeks.org/user/arpittripitg9"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a> 
+<a href="https://codolio.com/profile/BrokenDead"> <img src="https://img.shields.io/badge/Codolio-100000?style=for-the-badge&logo=codolio&logoColor=white" alt="codolio" /></a> 
+<a href="https://nexpectarpit-v1.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" /></a> 
 <a href="https://medium.com/@nexpectarpit"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a> 
 <a href="https://www.instagram.com/arpittripathi663/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
 <a href="mailto:arpittripathiayo@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> 
@@ -40,7 +42,7 @@ I am a developer focused on AI and ML with strong interest in building web proje
  
  
 ## Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,java,typescript,py,anaconda,vite,react,npm,nodejs,express,fastapi,mongodb,postgres,mysql,redis,docker,kubernetes,supabase,firebase,postman,github,git,netlify,vercel,markdown,figma,vscode,eclipse,selenium,jenkins,bash,redux,notion,latex,graphql	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,java,typescript,py,anaconda,vite,react,npm,yarn,nodejs,express,fastapi,golang,ruby,mongodb,postgres,mysql,sqlite,redis,docker,kubernetes,supabase,firebase,postman,github,gitlab,git,netlify,vercel,markdown,figma,vscode,eclipse,selenium,jenkins,bash,redux,notion,latex,graphql	)](https://skillicons.dev)
 
 
 ## GitHub Analytics
