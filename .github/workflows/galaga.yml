@@ -1,9 +1,9 @@
-name: Generate Pacman Contribution Graph
+name: Generate Galaga Contribution Graph
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 7 * * *"
 
 permissions:
   contents: write
@@ -18,12 +18,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: pacman
-          # Limit the number of days to process to reduce memory usage
-          days: 365
-        env:
-          # Increase Node.js memory limit
-          NODE_OPTIONS: "--max_old_space_size=4096"
+          games: galaga
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
