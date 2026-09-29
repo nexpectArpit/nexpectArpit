@@ -54,7 +54,6 @@ I am a developer focused on AI and ML with strong interest in building web proje
 
  
  
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexpectarpit&theme=react-dark" alt="Contribution Graph" />
  
 
  <picture>
